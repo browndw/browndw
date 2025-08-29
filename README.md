@@ -20,14 +20,16 @@ I develop tools and methods for computational text analysis, focusing on corpus 
 
 ### 📊 Stats & Impact
 
-[![David's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=browndw&theme=github-compact)](https://github.com/browndw/github-readme-activity-graph)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=browndw&theme=github)
+
+![Profile Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=browndw&theme=github)
 
 ### 📈 Downloads
 
 | Platform | Package | Description | Total Downloads |
 |----------|---------|-------------|-----------------|
 | **CRAN** | pseudobibeR | Linguistic feature extraction | ![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/pseudobibeR?color=blue) |
-| **PyPI** | docuscospacy | spaCy DocuScope models | ![Downloads](https://static.pepy.tech/badge/docuscospacy?color=blue) |
+| **PyPI** | docuscospacy | Support for spaCy DocuScope models | ![Downloads](https://static.pepy.tech/badge/docuscospacy?color=blue) |
 | **PyPI** | pybiber | Biber feature extraction | ![Downloads](https://static.pepy.tech/badge/pybiber?color=blue) |
 | **PyPI** | google_ngrams | Ngram processing | ![Downloads](https://static.pepy.tech/badge/google_ngrams?color=blue) |
 
