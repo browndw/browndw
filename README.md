@@ -20,9 +20,12 @@ I develop tools and methods for computational text analysis, focusing on corpus 
 
 ### 📊 Stats & Impact
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=browndw&theme=github)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=browndw&theme=zenburn)
 
-![Profile Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=browndw&theme=github)
+<div align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=browndw&theme=zenburn" width="49%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=browndw&theme=zenburn" width="49%"/>
+</div>
 
 ### 📈 Downloads
 
