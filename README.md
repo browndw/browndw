@@ -18,6 +18,27 @@ I develop tools and methods for computational text analysis, focusing on corpus 
 ![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+### 📊 Stats & Impact
+
+[![David's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=browndw&theme=github-compact)](https://github.com/browndw/github-readme-activity-graph)
+
+### 📈 Downloads
+
+| Platform | Package | Description | Total Downloads |
+|----------|---------|-------------|-----------------|
+| **CRAN** | pseudobibeR | Linguistic feature extraction | ![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/pseudobibeR?color=blue) |
+| **PyPI** | docuscospacy | spaCy DocuScope models | ![Downloads](https://static.pepy.tech/badge/docuscospacy?color=blue) |
+| **PyPI** | pybiber | Biber feature extraction | ![Downloads](https://static.pepy.tech/badge/pybiber?color=blue) |
+| **PyPI** | google_ngrams | Ngram processing | ![Downloads](https://static.pepy.tech/badge/google_ngrams?color=blue) |
+
+**Development Packages (GitHub):** mda.biber • quanteda.extras • vnc • ngramr.plus • spell.replacer
+
+| Platform | Resource | Description | Per Month Downloads |
+|----------|---------|-------------|---------------------|
+| **Hugging Face** | en_docusco_spacy | DocuScope spaCy model | ![Downloads](https://img.shields.io/badge/dynamic/json?url=https://huggingface.co/api/models/browndw/en_docusco_spacy&query=$.downloads&label=downloads&color=orange) |
+| **Hugging Face** | HAP-E corpus | Human-AI parallel texts | ![Downloads](https://img.shields.io/badge/dynamic/json?url=https://huggingface.co/api/datasets/browndw/human-ai-parallel-corpus&query=$.downloads&label=downloads&color=orange) |
+| **Hugging Face** | HAP-E mini | Human-AI parallel texts (mini) | ![Downloads](https://img.shields.io/badge/dynamic/json?url=https://huggingface.co/api/datasets/browndw/human-ai-parallel-corpus-mini&query=$.downloads&label=downloads&color=orange) |
+
 ---
 
 ## 🛠️ Featured Applications
@@ -37,15 +58,15 @@ Features: Corpus processing, frequency analysis, keyword-in-context tables, corp
 
 ### Statistical & Linguistic Analysis
 
-- **[mda.biber](https://github.com/browndw/mda.biber)** - Multi-Dimensional Analysis (MDA) for linguistic variation across genres and registers [![CRAN](https://www.r-pkg.org/badges/version/mda.biber)](https://CRAN.R-project.org/package=mda.biber)
+- **[mda.biber](https://github.com/browndw/mda.biber)** - Multi-Dimensional Analysis (MDA) for linguistic variation across genres and registers
 - **[pseudobibeR](https://github.com/browndw/pseudobibeR)** - Extract 67 lexicogrammatical features from parsed text data for register analysis [![CRAN](https://www.r-pkg.org/badges/version/pseudobibeR)](https://CRAN.R-project.org/package=pseudobibeR)
-- **[quanteda.extras](https://github.com/browndw/quanteda.extras)** - Extended corpus functions for keyness, dispersion, and collocational analysis [![CRAN](https://www.r-pkg.org/badges/version/quanteda.extras)](https://CRAN.R-project.org/package=quanteda.extras)
-- **[vnc](https://github.com/browndw/vnc)** - Variability-Based Neighbor Clustering for data-driven periodization in historical linguistics [![CRAN](https://www.r-pkg.org/badges/version/vnc)](https://CRAN.R-project.org/package=vnc)
+- **[quanteda.extras](https://github.com/browndw/quanteda.extras)** - Extended corpus functions for keyness, dispersion, and collocational analysis
+- **[vnc](https://github.com/browndw/vnc)** - Variability-Based Neighbor Clustering for data-driven periodization in historical linguistics
 
 ### Data & Utilities
 
-- **[ngramr.plus](https://github.com/browndw/ngramr.plus)** - Extract frequency data from Google Books Ngram datasets across multiple English varieties [![CRAN](https://www.r-pkg.org/badges/version/ngramr.plus)](https://CRAN.R-project.org/package=ngramr.plus)
-- **[spell.replacer](https://github.com/browndw/spell.replacer)** - Fast probabilistic spelling correction based on COCA frequency data [![CRAN](https://www.r-pkg.org/badges/version/spell.replacer)](https://CRAN.R-project.org/package=spell.replacer)
+- **[ngramr.plus](https://github.com/browndw/ngramr.plus)** - Extract frequency data from Google Books Ngram datasets across multiple English varieties
+- **[spell.replacer](https://github.com/browndw/spell.replacer)** - Fast probabilistic spelling correction based on COCA frequency data
 
 ---
 
@@ -68,6 +89,7 @@ Features: Corpus processing, frequency analysis, keyword-in-context tables, corp
 ### Research Corpora
 
 - **[HAP-E: Human-AI Parallel Corpus](https://huggingface.co/datasets/browndw/human-ai-parallel-corpus)** - Parallel corpus of human and AI-generated texts for comparative analysis
+- **[HAP-E Mini](https://huggingface.co/datasets/browndw/human-ai-parallel-corpus-mini)** - Smaller version of the Human-AI parallel corpus for quick testing
 
 Browse all resources: **[browndw on Hugging Face](https://huggingface.co/browndw)**
 
