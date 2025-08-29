@@ -26,6 +26,7 @@ Features: Corpus processing, frequency analysis, keyword-in-context tables, corp
 - **[mda.biber](https://github.com/browndw/mda.biber)** - Multi-Dimensional Analysis (MDA) for linguistic variation across genres and registers [![CRAN](https://www.r-pkg.org/badges/version/mda.biber)](https://CRAN.R-project.org/package=mda.biber)
 - **[pseudobibeR](https://github.com/browndw/pseudobibeR)** - Extract 67 lexicogrammatical features from parsed text data for register analysis [![CRAN](https://www.r-pkg.org/badges/version/pseudobibeR)](https://CRAN.R-project.org/package=pseudobibeR)
 - **[quanteda.extras](https://github.com/browndw/quanteda.extras)** - Extended corpus functions for keyness, dispersion, and collocational analysis [![CRAN](https://www.r-pkg.org/badges/version/quanteda.extras)](https://CRAN.R-project.org/package=quanteda.extras)
+- **[vnc](https://github.com/browndw/vnc)** - Variability-Based Neighbor Clustering for data-driven periodization in historical linguistics [![CRAN](https://www.r-pkg.org/badges/version/vnc)](https://CRAN.R-project.org/package=vnc)
 
 ### Data & Utilities
 
@@ -41,6 +42,20 @@ Features: Corpus processing, frequency analysis, keyword-in-context tables, corp
 - **[docuscospacy](https://github.com/browndw/docuscospacy)** - spaCy models trained on DocuScope and CLAWS7 tagset for rhetorical analysis [![PyPI](https://img.shields.io/pypi/v/docuscospacy.svg)](https://pypi.org/project/docuscospacy/)
 - **[pybiber](https://github.com/browndw/pybiber)** - Python implementation of Biber's linguistic feature extraction [![PyPI](https://img.shields.io/pypi/v/pybiber.svg)](https://pypi.org/project/pybiber/)
 - **[google_ngrams](https://github.com/browndw/google_ngrams)** - Process Google Ngram data with Variability-Based Neighbor Clustering [![PyPI](https://img.shields.io/pypi/v/google_ngrams.svg)](https://pypi.org/project/google_ngrams/)
+
+---
+
+## 🤗 Hugging Face Resources
+
+### Specialized Models
+
+- **[en_docusco_spacy](https://huggingface.co/browndw/en_docusco_spacy)** - Custom spaCy model trained on DocuScope and CLAWS7 tagset, powering the DocuScope applications above
+
+### Research Corpora
+
+- **[HAP-E: Human-AI Parallel Corpus](https://huggingface.co/datasets/browndw/human-ai-parallel-corpus)** - Parallel corpus of human and AI-generated texts for comparative analysis
+
+Browse all resources: **[browndw on Hugging Face](https://huggingface.co/browndw)**
 
 ---
 
@@ -68,6 +83,24 @@ My work centers on developing computational methods for:
 - **Rhetorical Analysis** - Computational approaches to discourse analysis
 - **Register & Genre Analysis** - Automated classification of text types
 - **Historical Linguistics** - Quantitative approaches to language change
+
+---
+
+## 📄 Recent Publications (2024-2025)
+
+### Journal Articles
+
+- **DeLuca, L. S., Reinhart, A., Weinberg, G., Laudenbach, M., Miller, S., & Brown, D. W.** (2025). Developing Students' Statistical Expertise Through Writing in the Age of AI. *Journal of Statistics and Data Science Education*, 1-13. [https://doi.org/10.1080/26939169.2025.2497547](https://doi.org/10.1080/26939169.2025.2497547)
+
+- **Reinhart, A., Markey, B., Laudenbach, M., Pantusen, K., Yurko, R., Weinberg, G., & Brown, D. W.** (2025). Do LLMs write like humans? Variation in grammatical and rhetorical styles. *Proceedings of the National Academy of Sciences*, 122(8), e2422455122. [https://doi.org/10.1073/pnas.2422455122](https://doi.org/10.1073/pnas.2422455122)
+
+- **Markey, B., Brown, D. W., Laudenbach, M., & Kohler, A.** (2024). Dense and disconnected: Analyzing the sedimented style of ChatGPT-generated text at scale. *Written Communication*, 41(4), 571-600. [https://doi.org/10.1177/07410883241263528](https://doi.org/10.1177/07410883241263528)
+
+- **Laudenbach, M., Brown, D. W., Guo, Z., Ishizaki, S., Reinhart, A., & Weinberg, G.** (2024). Visualizing formative feedback in statistics writing: An exploratory study of student motivation using DocuScope Write & Audit. *Assessing Writing*, 60, 100830. [https://doi.org/10.1016/j.asw.2024.100830](https://doi.org/10.1016/j.asw.2024.100830)
+
+### Book Chapters
+
+- **Brown, D. W.** (2024). Dictionaries, Language Ideologies, and Language Attitudes. In E. Finegan & M. Adams (Eds.), *The Cambridge Handbook of the Dictionary* (pp. 277-300). Cambridge University Press. [https://doi.org/10.1017/9781108864435.015](https://doi.org/10.1017/9781108864435.015)
 
 ---
 
