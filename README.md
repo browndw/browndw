@@ -22,9 +22,7 @@ I develop tools and methods for computational text analysis, focusing on corpus 
 ### 📊 Stats & Impact
 
 <div align="center">
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=browndw&theme=zenburn)
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=browndw&theme=zenburn" width="98%"/>
 </div>
 
 <div align="center">
@@ -94,7 +92,7 @@ Features: Corpus processing, frequency analysis, keyword-in-context tables, corp
 
 ### Specialized Models
 
-- **[en_docusco_spacy](https://huggingface.co/browndw/en_docusco_spacy)** - Custom spaCy model trained on DocuScope and CLAWS7 tagset, powering the DocuScope applications above
+- **[en\_docusco\_spacy](https://huggingface.co/browndw/en_docusco_spacy)** - Custom spaCy model trained on DocuScope and CLAWS7 tagset, powering the DocuScope applications above
 
 ### Research Corpora
 
