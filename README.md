@@ -35,11 +35,12 @@ I develop tools and methods for computational text analysis, focusing on corpus 
 | Platform | Package | Description | Total Downloads |
 |----------|---------|-------------|-----------------|
 | **CRAN** | pseudobibeR | Linguistic feature extraction | ![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/pseudobibeR?color=blue) |
+| **CRAN** | spell.replacer | Probablistic spell correction | ![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/spell.replacer?color=blue) |
 | **PyPI** | docuscospacy | Support for spaCy DocuScope models | ![Downloads](https://static.pepy.tech/badge/docuscospacy?color=blue) |
 | **PyPI** | pybiber | Biber feature extraction | ![Downloads](https://static.pepy.tech/badge/pybiber?color=blue) |
 | **PyPI** | google_ngrams | Ngram processing | ![Downloads](https://static.pepy.tech/badge/google_ngrams?color=blue) |
 
-**Development Packages (GitHub):** mda.biber • quanteda.extras • vnc • ngramr.plus • spell.replacer
+**Development Packages (GitHub):** mda.biber • quanteda.extras • vnc • ngramr.plus
 
 | Platform | Resource | Description | Per Month Downloads |
 |----------|---------|-------------|---------------------|
@@ -74,7 +75,7 @@ Features: Corpus processing, frequency analysis, keyword-in-context tables, corp
 ### Data & Utilities
 
 - **[ngramr.plus](https://github.com/browndw/ngramr.plus)** - Extract frequency data from Google Books Ngram datasets across multiple English varieties
-- **[spell.replacer](https://github.com/browndw/spell.replacer)** - Fast probabilistic spelling correction based on COCA frequency data
+- **[spell.replacer](https://github.com/browndw/spell.replacer)** - Fast probabilistic spelling correction based on COCA frequency data! [CRAN](https://www.r-pkg.org/badges/version/spell.replacer)](https://CRAN.R-project.org/package=spell.replacer)
 
 ---
 
