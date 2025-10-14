@@ -35,7 +35,7 @@ I develop tools and methods for computational text analysis, focusing on corpus 
 | Platform | Package | Description | Total Downloads |
 |----------|---------|-------------|-----------------|
 | **CRAN** | pseudobibeR | Linguistic feature extraction | ![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/pseudobibeR?color=blue) |
-| **CRAN** | mda.biber | Probablistic spell correction | ![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/mda.biber?color=blue) |
+| **CRAN** | mda.biber | Multi-Dimensional Analysis (MDA) | ![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/mda.biber?color=blue) |
 | **CRAN** | spell.replacer | Probablistic spell correction | ![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/spell.replacer?color=blue) |
 | **PyPI** | docuscospacy | Support for spaCy DocuScope models | ![Downloads](https://static.pepy.tech/badge/docuscospacy?color=blue) |
 | **PyPI** | pybiber | Biber feature extraction | ![Downloads](https://static.pepy.tech/badge/pybiber?color=blue) |
