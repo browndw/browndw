@@ -68,7 +68,7 @@ Features: Corpus processing, frequency analysis, keyword-in-context tables, corp
 
 ### Statistical & Linguistic Analysis
 
-- **[mda.biber](https://github.com/browndw/mda.biber)** - Multi-Dimensional Analysis (MDA) for linguistic variation across genres and registers [![CRAN](https://www.r-pkg.org/badges/version/pseudobibeR)](https://CRAN.R-project.org/package=mda.biber)
+- **[mda.biber](https://github.com/browndw/mda.biber)** - Multi-Dimensional Analysis (MDA) for linguistic variation across genres and registers [![CRAN](https://www.r-pkg.org/badges/version/mda.biber)](https://CRAN.R-project.org/package=mda.biber)
 - **[pseudobibeR](https://github.com/browndw/pseudobibeR)** - Extract 67 lexicogrammatical features from parsed text data for register analysis [![CRAN](https://www.r-pkg.org/badges/version/pseudobibeR)](https://CRAN.R-project.org/package=pseudobibeR)
 - **[quanteda.extras](https://github.com/browndw/quanteda.extras)** - Extended corpus functions for keyness, dispersion, and collocational analysis
 - **[vnc](https://github.com/browndw/vnc)** - Variability-Based Neighbor Clustering for data-driven periodization in historical linguistics
