@@ -35,6 +35,7 @@ I develop tools and methods for computational text analysis, focusing on corpus 
 | Platform | Package | Description | Total Downloads |
 |----------|---------|-------------|-----------------|
 | **CRAN** | pseudobibeR | Linguistic feature extraction | ![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/pseudobibeR?color=blue) |
+| **CRAN** | mda.biber | Probablistic spell correction | ![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/mda.biber?color=blue) |
 | **CRAN** | spell.replacer | Probablistic spell correction | ![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/spell.replacer?color=blue) |
 | **PyPI** | docuscospacy | Support for spaCy DocuScope models | ![Downloads](https://static.pepy.tech/badge/docuscospacy?color=blue) |
 | **PyPI** | pybiber | Biber feature extraction | ![Downloads](https://static.pepy.tech/badge/pybiber?color=blue) |
@@ -67,7 +68,7 @@ Features: Corpus processing, frequency analysis, keyword-in-context tables, corp
 
 ### Statistical & Linguistic Analysis
 
-- **[mda.biber](https://github.com/browndw/mda.biber)** - Multi-Dimensional Analysis (MDA) for linguistic variation across genres and registers
+- **[mda.biber](https://github.com/browndw/mda.biber)** - Multi-Dimensional Analysis (MDA) for linguistic variation across genres and registers [![CRAN](https://www.r-pkg.org/badges/version/pseudobibeR)](https://CRAN.R-project.org/package=mda.biber)
 - **[pseudobibeR](https://github.com/browndw/pseudobibeR)** - Extract 67 lexicogrammatical features from parsed text data for register analysis [![CRAN](https://www.r-pkg.org/badges/version/pseudobibeR)](https://CRAN.R-project.org/package=pseudobibeR)
 - **[quanteda.extras](https://github.com/browndw/quanteda.extras)** - Extended corpus functions for keyness, dispersion, and collocational analysis
 - **[vnc](https://github.com/browndw/vnc)** - Variability-Based Neighbor Clustering for data-driven periodization in historical linguistics
