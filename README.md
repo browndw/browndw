@@ -40,6 +40,7 @@ I develop tools and methods for computational text analysis, focusing on corpus 
 | **PyPI** | docuscospacy | Support for spaCy DocuScope models | ![Downloads](https://static.pepy.tech/badge/docuscospacy?color=blue) |
 | **PyPI** | pybiber | Biber feature extraction | ![Downloads](https://static.pepy.tech/badge/pybiber?color=blue) |
 | **PyPI** | google_ngrams | Ngram processing | ![Downloads](https://static.pepy.tech/badge/google_ngrams?color=blue) |
+| **PyPI** | moodswing | Sentiment trajectories | ![Downloads](https://static.pepy.tech/badge/moodswing?color=blue) |
 
 **Development Packages (GitHub):** mda.biber • quanteda.extras • vnc • ngramr.plus
 
@@ -87,7 +88,7 @@ Features: Corpus processing, frequency analysis, keyword-in-context tables, corp
 - **[docuscospacy](https://github.com/browndw/docuscospacy)** - spaCy models trained on DocuScope and CLAWS7 tagset for rhetorical analysis [![PyPI](https://img.shields.io/pypi/v/docuscospacy.svg)](https://pypi.org/project/docuscospacy/)
 - **[pybiber](https://github.com/browndw/pybiber)** - Python implementation of Biber's linguistic feature extraction [![PyPI](https://img.shields.io/pypi/v/pybiber.svg)](https://pypi.org/project/pybiber/)
 - **[google_ngrams](https://github.com/browndw/google_ngrams)** - Process Google Ngram data with Variability-Based Neighbor Clustering [![PyPI](https://img.shields.io/pypi/v/google_ngrams.svg)](https://pypi.org/project/google_ngrams/)
-
+- **[moodswing](https://github.com/browndw/moodswing)** - Sentiment trajectories analysis [![PyPI](https://img.shields.io/pypi/v/moodswing.svg)](https://pypi.org/project/moodswing/)
 ---
 
 ## 🤗 Hugging Face Resources
